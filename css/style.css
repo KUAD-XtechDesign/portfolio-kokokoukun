@@ -69,7 +69,7 @@ case2
   font-weight: bold;
  }
 
- #case li .content{
+ #case2 li .content{
   background-color: lime;
   flex: 1;
  }
