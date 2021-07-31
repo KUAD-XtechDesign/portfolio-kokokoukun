@@ -144,7 +144,8 @@ header a {
 
 header .inner {
   display: flex;
-  background-color: #fff;
+  background: rgb(34,150,195,1);
+  background: radial-gradient(circle, rgba(34,193,150,1) 75%, rgba(0,100,137,1) 100%);
   justify-content: space-between;
   padding: 15px 20px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.35);
@@ -156,7 +157,7 @@ header .inner {
 footer
 ======================================================*/
 footer {
-  background-color: #333;
+  background-color: #400;
   color: #fff;
   text-align: center;
   padding: 20px;
